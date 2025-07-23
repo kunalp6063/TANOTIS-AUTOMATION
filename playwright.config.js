@@ -11,7 +11,7 @@ module.exports = defineConfig({
   ],
 
   use: {
-    headless: false,
+    headless: true,
   },
 
   projects: [
