@@ -1,0 +1,502 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Tanotis":
+    - /url: /
+    - img "Tanotis"
+  - search:
+    - textbox "Search..."
+    - button "Search"
+  - text: Login / Signup
+  - link "My account":
+    - /url: /account/login
+  - link "0 Cart":
+    - /url: /cart
+- navigation:
+  - list:
+    - listitem:
+      - link "Electrical & Components":
+        - /url: /
+    - listitem:
+      - link "Electronics & Tools":
+        - /url: /
+    - listitem:
+      - link "Photography & Lighting":
+        - /url: /
+    - listitem:
+      - link "Optics & Surveillance":
+        - /url: /
+    - listitem:
+      - link "Pro Audio & Video":
+        - /url: /
+    - listitem:
+      - link "Computer & Presentation":
+        - /url: /
+    - listitem:
+      - link "TV & Mobile":
+        - /url: /
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /
+      - listitem: Headphones
+  - heading [level=1]
+  - text: Showing 1 - 36 of 867 products
+  - 'button "Display: 36 per page"'
+  - 'button "Sort by: Best selling"'
+  - text: View
+  - button "Display products as grid"
+  - button "Display products as list"
+  - link "Koss KSC75 Clip-On Stereo Headphones":
+    - /url: /collections/headphones/products/koss-ksc75-clip-on-stereo-headphones
+    - img "Koss KSC75 Clip-On Stereo Headphones"
+  - text: ₹ 3,075
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - button "4.92 stars": 
+  - link "Koss KSC75 Clip-On Stereo Headphones":
+    - /url: /collections/headphones/products/koss-ksc75-clip-on-stereo-headphones
+  - button "Add to cart"
+  - link "Panasonic RP-HT21 Lightweight Headphones with XBS":
+    - /url: /collections/headphones/products/panasonic-rp-ht21-lightweight-headphones-with-xbs
+    - img "Panasonic RP-HT21 Lightweight Headphones with XBS"
+  - text: ₹ 1,715
+  - link "Panasonic":
+    - /url: /collections/vendors?q=Panasonic-10
+  - button "4.77 stars": 
+  - link "Panasonic RP-HT21 Lightweight Headphones with XBS":
+    - /url: /collections/headphones/products/panasonic-rp-ht21-lightweight-headphones-with-xbs
+  - button "Add to cart"
+  - link "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Black)":
+    - /url: /collections/headphones/products/shokz-openfit-open-ear-true-wireless-earbuds-black
+    - img "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Black)"
+  - text: ₹ 26,350
+  - link "SHOKZ":
+    - /url: /collections/vendors?q=SHOKZ-10
+  - button "4.00 stars": 
+  - link "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Black)":
+    - /url: /collections/headphones/products/shokz-openfit-open-ear-true-wireless-earbuds-black
+  - button "Add to cart"
+  - link "Koss Portable Replacement Cushions":
+    - /url: /collections/headphones/products/koss-portable-replacement-cushions
+    - img "Koss Portable Replacement Cushions"
+  - text: ₹ 1,565
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - button "5.00 stars": 
+  - link "Koss Portable Replacement Cushions":
+    - /url: /collections/headphones/products/koss-portable-replacement-cushions
+  - button "Add to cart"
+  - link "Koss KTXPRO1 On-Ear Headphones":
+    - /url: /collections/headphones/products/koss-ktxpro1-on-ear-headphones
+    - img "Koss KTXPRO1 On-Ear Headphones"
+  - text: ₹ 3,075
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - button "5.00 stars": 
+  - link "Koss KTXPRO1 On-Ear Headphones":
+    - /url: /collections/headphones/products/koss-ktxpro1-on-ear-headphones
+  - button "Add to cart"
+  - link "Sony MDR-E9LP Stereo Earbuds (Black)":
+    - /url: /collections/headphones/products/sony-mdr-e9lp-stereo-earbuds-black
+    - img "Sony MDR-E9LP Stereo Earbuds (Black)"
+  - text: ₹ 1,865
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - button "5.00 stars": 
+  - link "Sony MDR-E9LP Stereo Earbuds (Black)":
+    - /url: /collections/headphones/products/sony-mdr-e9lp-stereo-earbuds-black
+  - button "Add to cart"
+  - link "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor":
+    - /url: /collections/headphones/products/hosa-technology-3-5mm-trs-to-1-4-trs-headphone-plug-adaptor
+    - img "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor":
+    - /url: /collections/headphones/products/hosa-technology-3-5mm-trs-to-1-4-trs-headphone-plug-adaptor
+  - button "Add to cart"
+  - link "Hosa Technology Stereo 1/4\" Male to Two Stereo 1/4\" Female Y-Cable - 6\"":
+    - /url: /collections/headphones/products/hosa-technology-stereo-1-4-male-to-two-stereo-1-4-female-y-cable-6
+    - img "Hosa Technology Stereo 1/4\" Male to Two Stereo 1/4\" Female Y-Cable - 6\""
+  - text: ₹ 2,010
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - button "5.00 stars": 
+  - link "Hosa Technology Stereo 1/4\" Male to Two Stereo 1/4\" Female Y-Cable ...":
+    - /url: /collections/headphones/products/hosa-technology-stereo-1-4-male-to-two-stereo-1-4-female-y-cable-6
+  - button "Add to cart"
+  - link "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Beige)":
+    - /url: /collections/headphones/products/shokz-openfit-open-ear-true-wireless-earbuds-beige
+    - img "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Beige)"
+  - text: ₹ 26,350
+  - link "SHOKZ":
+    - /url: /collections/vendors?q=SHOKZ-10
+  - link "SHOKZ OpenFit Open-Ear True Wireless Earbuds (Beige)":
+    - /url: /collections/headphones/products/shokz-openfit-open-ear-true-wireless-earbuds-beige
+  - button "Add to cart"
+  - link "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear Headphones (Beats Black)":
+    - /url: /collections/headphones/products/beats-by-dr-dre-beats-fit-pro-noise-canceling-true-wireless-in-ear-headphones-beats-black
+    - img "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear Headphones (Beats Black)"
+  - text: ₹ 31,835
+  - link "Beats by Dr. Dre":
+    - /url: /collections/vendors?q=Beats%20by%20Dr.%20Dre-10
+  - button "5.00 stars": 
+  - link "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear...":
+    - /url: /collections/headphones/products/beats-by-dr-dre-beats-fit-pro-noise-canceling-true-wireless-in-ear-headphones-beats-black
+  - button "Add to cart"
+  - link "Belkin USB Type-C Audio & Charge Adapter":
+    - /url: /collections/headphones/products/belkin-usb-type-c-audio-charge-adapter
+    - img "Belkin USB Type-C Audio & Charge Adapter"
+  - text: ₹ 5,035
+  - link "Belkin":
+    - /url: /collections/vendors?q=Belkin-10
+  - button "4.00 stars": 
+  - link "Belkin USB Type-C Audio & Charge Adapter":
+    - /url: /collections/headphones/products/belkin-usb-type-c-audio-charge-adapter
+  - button "Add to cart"
+  - link "V-MODA BoomPro Microphone (Black)":
+    - /url: /collections/headphones/products/v-moda-boompro-microphone-black
+    - img "V-MODA BoomPro Microphone (Black)"
+  - text: ₹ 3,525
+  - link "V-MODA":
+    - /url: /collections/vendors?q=V-MODA-10
+  - link "V-MODA BoomPro Microphone (Black)":
+    - /url: /collections/headphones/products/v-moda-boompro-microphone-black
+  - button "Add to cart"
+  - link "Dekoni Audio The Mercury Memory Foam Earphone Tips 4.9mm, (Black, 3-Pack)":
+    - /url: /collections/headphones/products/dekoni-audio-the-mercury-memory-foam-earphone-tips-4-9mm-black-3-pack
+    - img "Dekoni Audio The Mercury Memory Foam Earphone Tips 4.9mm, (Black, 3-Pack)"
+  - text: ₹ 2,470
+  - link "Dekoni Audio":
+    - /url: /collections/vendors?q=Dekoni%20Audio-10
+  - button "5.00 stars": 
+  - link "Dekoni Audio The Mercury Memory Foam Earphone Tips 4.9mm, (Black, 3...":
+    - /url: /collections/headphones/products/dekoni-audio-the-mercury-memory-foam-earphone-tips-4-9mm-black-3-pack
+  - button "Add to cart"
+  - link "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear Headphones (Sage Gray)":
+    - /url: /collections/headphones/products/beats-by-dr-dre-beats-fit-pro-noise-canceling-true-wireless-in-ear-headphones-sage-gray
+    - img "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear Headphones (Sage Gray)"
+  - text: ₹ 31,835
+  - link "Beats by Dr. Dre":
+    - /url: /collections/vendors?q=Beats%20by%20Dr.%20Dre-10
+  - link "Beats by Dr. Dre Beats Fit Pro Noise-Canceling True Wireless In-Ear...":
+    - /url: /collections/headphones/products/beats-by-dr-dre-beats-fit-pro-noise-canceling-true-wireless-in-ear-headphones-sage-gray
+  - button "Add to cart"
+  - link "Thore 2.5mm to Lightning Cable for Bose QC25, QC35, and Headphones 700 (Black, 4')":
+    - /url: /collections/headphones/products/thore-2-5mm-to-lightning-cable-for-bose-qc25-qc35-and-headphones-700-black-4
+    - img "Thore 2.5mm to Lightning Cable for Bose QC25, QC35, and Headphones 700 (Black, 4')"
+  - text: ₹ 3,520
+  - link "Thore":
+    - /url: /collections/vendors?q=Thore-10
+  - button "5.00 stars": 
+  - link "Thore 2.5mm to Lightning Cable for Bose QC25, QC35, and Headphones ...":
+    - /url: /collections/headphones/products/thore-2-5mm-to-lightning-cable-for-bose-qc25-qc35-and-headphones-700-black-4
+  - button "Add to cart"
+  - link "Belkin RockStar In-Ear Headphones with Lightning Connector (Black)":
+    - /url: /collections/headphones/products/belkin-rockstar-in-ear-headphones-with-lightning-connector-black
+    - img "Belkin RockStar In-Ear Headphones with Lightning Connector (Black)"
+  - text: ₹ 5,035
+  - link "Belkin":
+    - /url: /collections/vendors?q=Belkin-10
+  - button "5.00 stars": 
+  - link "Belkin RockStar In-Ear Headphones with Lightning Connector (Black)":
+    - /url: /collections/headphones/products/belkin-rockstar-in-ear-headphones-with-lightning-connector-black
+  - button "Add to cart"
+  - link "Twelve South AirFly SE Wireless Adapter (2nd Gen)":
+    - /url: /collections/headphones/products/twelve-south-airfly-se-wireless-adapter-2nd-gen
+    - img "Twelve South AirFly SE Wireless Adapter (2nd Gen)"
+  - text: ₹ 8,030
+  - link "Twelve South":
+    - /url: /collections/vendors?q=Twelve%20South-10
+  - button "5.00 stars": 
+  - link "Twelve South AirFly SE Wireless Adapter (2nd Gen)":
+    - /url: /collections/headphones/products/twelve-south-airfly-se-wireless-adapter-2nd-gen
+  - button "Add to cart"
+  - link "Panasonic RP-HT21M Lightweight On-Ear Headphones":
+    - /url: /collections/headphones/products/panasonic-rp-ht21m-lightweight-on-ear-headphones
+    - img "Panasonic RP-HT21M Lightweight On-Ear Headphones"
+  - text: ₹ 2,770
+  - link "Panasonic":
+    - /url: /collections/vendors?q=Panasonic-10
+  - button "5.00 stars": 
+  - link "Panasonic RP-HT21M Lightweight On-Ear Headphones":
+    - /url: /collections/headphones/products/panasonic-rp-ht21m-lightweight-on-ear-headphones
+  - button "Add to cart"
+  - link "Belkin RockStar In-Ear Headphones with USB Type-C Connector (Black)":
+    - /url: /collections/headphones/products/belkin-rockstar-in-ear-headphones-with-usb-type-c-connector-black
+    - img "Belkin RockStar In-Ear Headphones with USB Type-C Connector (Black)"
+  - text: ₹ 3,525
+  - link "Belkin":
+    - /url: /collections/vendors?q=Belkin-10
+  - link "Belkin RockStar In-Ear Headphones with USB Type-C Connector (Black)":
+    - /url: /collections/headphones/products/belkin-rockstar-in-ear-headphones-with-usb-type-c-connector-black
+  - button "Add to cart"
+  - link "V-MODA XL Memory Cushions for Crossfade Wireless, M-100, LP, and LP2 Headphones (Pair, Gray)":
+    - /url: /collections/headphones/products/v-moda-xl-memory-cushions-for-crossfade-wireless-m-100-lp-and-lp2-headphones-pair-gray
+    - img "V-MODA XL Memory Cushions for Crossfade Wireless, M-100, LP, and LP2 Headphones (Pair, Gray)"
+  - text: ₹ 3,675
+  - link "V-MODA":
+    - /url: /collections/vendors?q=V-MODA-10
+  - button "5.00 stars": 
+  - link "V-MODA XL Memory Cushions for Crossfade Wireless, M-100, LP, and LP...":
+    - /url: /collections/headphones/products/v-moda-xl-memory-cushions-for-crossfade-wireless-m-100-lp-and-lp2-headphones-pair-gray
+  - button "Add to cart"
+  - link "Reloop RHP-10 Mono DJ Headphone":
+    - /url: /collections/headphones/products/reloop-rhp-10-mono-dj-headphone
+    - img "Reloop RHP-10 Mono DJ Headphone"
+  - text: ₹ 14,740
+  - link "Reloop":
+    - /url: /collections/vendors?q=Reloop-10
+  - link "Reloop RHP-10 Mono DJ Headphone":
+    - /url: /collections/headphones/products/reloop-rhp-10-mono-dj-headphone
+  - button "Add to cart"
+  - link "JBL Endurance Peak 3 True Wireless In-Ear Sport Headphones (Black)":
+    - /url: /collections/headphones/products/jbl-endurance-peak-3-true-wireless-in-ear-sport-headphones-black
+    - img "JBL Endurance Peak 3 True Wireless In-Ear Sport Headphones (Black)"
+  - text: ₹ 18,965
+  - link "JBL":
+    - /url: /collections/vendors?q=JBL-10
+  - link "JBL Endurance Peak 3 True Wireless In-Ear Sport Headphones (Black)":
+    - /url: /collections/headphones/products/jbl-endurance-peak-3-true-wireless-in-ear-sport-headphones-black
+  - button "Add to cart"
+  - link "Williams Sound HED 026 Behind-the-Neck Mono Headphones":
+    - /url: /collections/headphones/products/williams-sound-hed-026-behind-the-neck-mono-headphones
+    - img "Williams Sound HED 026 Behind-the-Neck Mono Headphones"
+  - text: ₹ 5,565
+  - link "Williams Sound":
+    - /url: /collections/vendors?q=Williams%20Sound-10
+  - button "5.00 stars": 
+  - link "Williams Sound HED 026 Behind-the-Neck Mono Headphones":
+    - /url: /collections/headphones/products/williams-sound-hed-026-behind-the-neck-mono-headphones
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-black
+    - img "Koss KPH7 On-Ear Headphones (Black)"
+  - text: ₹ 1,355
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - link "Koss KPH7 On-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-black
+  - button "Add to cart"
+  - link "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp500-stereo-2-5mm-female-to-3-5mm-male-adapter
+    - img "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter"
+  - text: ₹ 1,120
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp500-stereo-2-5mm-female-to-3-5mm-male-adapter
+  - button "Add to cart"
+  - link "JBL Junior 320 Kid Safe On-Ear Wired Headphones (Purple)":
+    - /url: /collections/headphones/products/jbl-junior-320-kid-safe-on-ear-wired-headphones-purple
+    - img "JBL Junior 320 Kid Safe On-Ear Wired Headphones (Purple)"
+  - text: ₹ 3,520
+  - link "JBL":
+    - /url: /collections/vendors?q=JBL-10
+  - link "JBL Junior 320 Kid Safe On-Ear Wired Headphones (Purple)":
+    - /url: /collections/headphones/products/jbl-junior-320-kid-safe-on-ear-wired-headphones-purple
+  - button "Add to cart"
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-black
+    - img "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)"
+  - text: ₹ 67,970
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-black
+  - button "Add to cart"
+  - text: Save ₹ 6,630
+  - link "Beats by Dr. Dre Studio Pro Wireless Over-Ear Headphones (Sandstone)":
+    - /url: /collections/headphones/products/beats-by-dr-dre-studio-pro-wireless-over-ear-headphones-sandstone
+    - img "Beats by Dr. Dre Studio Pro Wireless Over-Ear Headphones (Sandstone)"
+  - text: ₹ 46,405 ₹ 53,035
+  - link "Beats by Dr. Dre":
+    - /url: /collections/vendors?q=Beats%20by%20Dr.%20Dre-10
+  - button "4.00 stars": 
+  - link "Beats by Dr. Dre Studio Pro Wireless Over-Ear Headphones (Sandstone)":
+    - /url: /collections/headphones/products/beats-by-dr-dre-studio-pro-wireless-over-ear-headphones-sandstone
+  - button "Add to cart"
+  - link "JBL Endurance Run 2 Wired In-Ear Sports Earphones (Black)":
+    - /url: /collections/headphones/products/jbl-endurance-run-2-wired-in-ear-sports-earphones-black
+    - img "JBL Endurance Run 2 Wired In-Ear Sports Earphones (Black)"
+  - text: ₹ 2,765
+  - link "JBL":
+    - /url: /collections/vendors?q=JBL-10
+  - link "JBL Endurance Run 2 Wired In-Ear Sports Earphones (Black)":
+    - /url: /collections/headphones/products/jbl-endurance-run-2-wired-in-ear-sports-earphones-black
+  - button "Add to cart"
+  - link "Sony MDR-E9LP Stereo Earbuds (Blue)":
+    - /url: /collections/headphones/products/sony-mdr-e9lp-stereo-earbuds-blue
+    - img "Sony MDR-E9LP Stereo Earbuds (Blue)"
+  - text: ₹ 2,015
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - link "Sony MDR-E9LP Stereo Earbuds (Blue)":
+    - /url: /collections/headphones/products/sony-mdr-e9lp-stereo-earbuds-blue
+  - button "Add to cart"
+  - link "Sony MDR-7506 Headphones":
+    - /url: /collections/headphones/products/sony-mdr-7506-headphones
+    - img "Sony MDR-7506 Headphones"
+  - text: ₹ 18,975
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - link "Sony MDR-7506 Headphones":
+    - /url: /collections/headphones/products/sony-mdr-7506-headphones
+  - button "Add to cart"
+  - text: Save ₹ 11,730
+  - link "Philips Fidelio X2HR Over-Ear Open-Back Headphones":
+    - /url: /collections/headphones/products/philips-fidelio-x2hr-over-ear-open-back-headphones
+    - img "Philips Fidelio X2HR Over-Ear Open-Back Headphones"
+  - text: ₹ 29,320 ₹ 41,050
+  - link "Philips":
+    - /url: /collections/vendors?q=Philips-10
+  - link "Philips Fidelio X2HR Over-Ear Open-Back Headphones":
+    - /url: /collections/headphones/products/philips-fidelio-x2hr-over-ear-open-back-headphones
+  - button "Unavailable" [disabled]
+  - link "Technics EAH-DJ1200 On-Ear DJ Headphones (Black)":
+    - /url: /collections/headphones/products/technics-eah-dj1200-on-ear-dj-headphones-black
+    - img "Technics EAH-DJ1200 On-Ear DJ Headphones (Black)"
+  - text: ₹ 31,845
+  - link "Technics":
+    - /url: /collections/vendors?q=Technics-10
+  - link "Technics EAH-DJ1200 On-Ear DJ Headphones (Black)":
+    - /url: /collections/headphones/products/technics-eah-dj1200-on-ear-dj-headphones-black
+  - button "Unavailable" [disabled]
+  - link "Auray Headphone Holder With Padded Cradle and Adjustable Angle":
+    - /url: /collections/headphones/products/auray-headphone-holder-with-padded-cradle-and-adjustable-angle
+    - img "Auray Headphone Holder With Padded Cradle and Adjustable Angle"
+  - text: ₹ 2,470
+  - link "Auray":
+    - /url: /collections/vendors?q=Auray-10
+  - link "Auray Headphone Holder With Padded Cradle and Adjustable Angle":
+    - /url: /collections/headphones/products/auray-headphone-holder-with-padded-cradle-and-adjustable-angle
+  - button "Add to cart"
+  - link "Dekoni Audio Velour Memory Foam Replacement Earpads for Audio-Technica ATH-M50x (Pair, Black)":
+    - /url: /collections/headphones/products/dekoni-audio-velour-memory-foam-replacement-earpads-for-audio-technica-ath-m50x-pair-black
+    - img "Dekoni Audio Velour Memory Foam Replacement Earpads for Audio-Technica ATH-M50x (Pair, Black)"
+  - text: ₹ 3,525
+  - link "Dekoni Audio":
+    - /url: /collections/vendors?q=Dekoni%20Audio-10
+  - link "Dekoni Audio Velour Memory Foam Replacement Earpads for Audio-Techn...":
+    - /url: /collections/headphones/products/dekoni-audio-velour-memory-foam-replacement-earpads-for-audio-technica-ath-m50x-pair-black
+  - button "Add to cart"
+  - link "Soundcore by Anker Sport X20 True-Wireless In-Ear Sports Earbuds (Black)":
+    - /url: /collections/headphones/products/soundcore-by-anker-sport-x20-true-wireless-in-ear-sports-earbuds-black
+    - img "Soundcore by Anker Sport X20 True-Wireless In-Ear Sports Earbuds (Black)"
+  - text: ₹ 14,740
+  - link "Soundcore by Anker":
+    - /url: /collections/vendors?q=Soundcore%20by%20Anker-10
+  - link "Soundcore by Anker Sport X20 True-Wireless In-Ear Sports Earbuds (B...":
+    - /url: /collections/headphones/products/soundcore-by-anker-sport-x20-true-wireless-in-ear-sports-earbuds-black
+  - button "Add to cart"
+  - text: "1"
+  - link "2":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbGluZV9pdGVtc19jb3VudCIsInN2IjoyLCJkIjoiZiIsInVpZCI6MzY4NTYxMTM5MjIxMzMsImwiOjM2LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.S4xIOl3tKQI7UmYniS20iSQFQCmR5GR1IID-k2a9Hvo
+  - link "3":
+    - /url: /collections/headphones?page=3
+  - text: …
+  - link "25":
+    - /url: /collections/headphones?page=25
+  - link "Next":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbGluZV9pdGVtc19jb3VudCIsInN2IjoyLCJkIjoiZiIsInVpZCI6MzY4NTYxMTM5MjIxMzMsImwiOjM2LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.S4xIOl3tKQI7UmYniS20iSQFQCmR5GR1IID-k2a9Hvo
+- contentinfo:
+  - button "Office Address" [disabled]
+  - paragraph:
+    - strong: "Address:"
+    - text: Tanotis Private Limited,
+  - paragraph: 1st Floor, Site No. 1, SFHS, Nandini Layout
+  - paragraph: Bangalore - 560096, INDIA
+  - paragraph:
+    - strong: "Work hours:"
+    - text: Mon - Fri 09:00 am - 5:00 pm
+  - paragraph
+  - paragraph:
+    - strong: "Support email:"
+    - link "support@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - paragraph:
+    - strong: "Sales email:"
+    - link "sales@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - button "Policy" [disabled]
+  - list:
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /pages/terms-and-conditions
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /pages/privacy-policy
+    - listitem:
+      - link "Refund & Cancellation":
+        - /url: /pages/refund-cancellation
+    - listitem:
+      - link "Shipping & Returns":
+        - /url: /pages/shipping-return
+    - listitem:
+      - link "Disclaimer":
+        - /url: /pages/disclaimer
+  - button "Important" [disabled]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /pages/about-us
+    - listitem:
+      - link "Contact Us":
+        - /url: /pages/contact-us
+    - listitem:
+      - link "FAQs":
+        - /url: /pages/faq
+    - listitem:
+      - link "Reviews":
+        - /url: /pages/reviews
+    - listitem:
+      - link "Note to Manufacturers":
+        - /url: /pages/note-to-manufacturers
+  - button "Account" [disabled]
+  - list:
+    - listitem:
+      - link "Login":
+        - /url: https://www.tanotis.com/account/login
+    - listitem:
+      - link "Register":
+        - /url: https://www.tanotis.com/account/register
+    - listitem:
+      - link "Track Your Order":
+        - /url: /pages/delivery
+    - listitem:
+      - link "Quote list":
+        - /url: https://www.tanotis.com/apps/request-a-quote/
+    - listitem:
+      - link "Cart":
+        - /url: https://www.tanotis.com/cart
+  - paragraph: Reviews
+  - strong:
+    - link:
+      - /url: /pages/reviews
+    - text: 4.8/5 based on 11968 customer reviews.
+  - paragraph: FOLLOW US
+  - list:
+    - listitem:
+      - link "Follow us on Facebook":
+        - /url: https://www.facebook.com/tanotis
+        - img
+    - listitem:
+      - link "Follow us on Twitter":
+        - /url: https://twitter.com/Tanotis
+    - listitem:
+      - link "Follow us on Instagram":
+        - /url: https://www.instagram.com/tanotis
+    - listitem:
+      - link "Follow us on LinkedIn":
+        - /url: https://www.linkedin.com/company/tanotis
+  - paragraph
+  - paragraph
+  - complementary:
+    - paragraph:
+      - img
+      - text: ₹ India © 2011-2025 Tanotis.com
+```

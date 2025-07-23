@@ -1,0 +1,226 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Tanotis":
+    - /url: /
+    - img "Tanotis"
+  - search:
+    - textbox "Search..."
+    - button "Search"
+  - text: Login / Signup
+  - link "My account":
+    - /url: /account/login
+  - link "2 Cart":
+    - /url: /cart
+- navigation:
+  - list:
+    - listitem:
+      - link "Electrical & Components":
+        - /url: /
+    - listitem:
+      - link "Electronics & Tools":
+        - /url: /
+    - listitem:
+      - link "Photography & Lighting":
+        - /url: /
+    - listitem:
+      - link "Optics & Surveillance":
+        - /url: /
+    - listitem:
+      - link "Pro Audio & Video":
+        - /url: /
+    - listitem:
+      - link "Computer & Presentation":
+        - /url: /
+    - listitem:
+      - link "TV & Mobile":
+        - /url: /
+- main:
+  - heading "My cart" [level=1]
+  - paragraph: You are eligible for free shipping!
+  - table:
+    - rowgroup:
+      - row "Product Quantity Total":
+        - cell "Product"
+        - cell "Quantity"
+        - cell "Total"
+    - rowgroup:
+      - row "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC ₹ 234,455.20 ₹ 239,240.00 2% Bulk Discount Added (-₹ 9,569.60) Decrease quantity by 1 2 Increase quantity by 1 Remove ₹ 468,910.40":
+        - cell "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC ₹ 234,455.20 ₹ 239,240.00 2% Bulk Discount Added (-₹ 9,569.60)":
+          - link "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC":
+            - /url: /products/violectric-dha-v226-headphone-amplifier-preamp-and-dac?variant=40659557187669
+          - text: ₹ 234,455.20 ₹ 239,240.00
+          - list:
+            - listitem: 2% Bulk Discount Added (-₹ 9,569.60)
+        - cell "Decrease quantity by 1 2 Increase quantity by 1 Remove":
+          - button "Decrease quantity by 1"
+          - textbox "Quantity": "2"
+          - button "Increase quantity by 1"
+          - link "Remove":
+            - /url: /cart/change?quantity=0&id=40659557187669:d7c8b3e5afc9f12fede5d78585af652b
+        - cell "₹ 468,910.40"
+  - button "Estimate shipping"
+  - text: Country
+  - combobox "Country":
+    - option "India" [selected]
+  - text: Province
+  - combobox "Province":
+    - option "Andaman and Nicobar Islands" [selected]
+    - option "Andhra Pradesh"
+    - option "Arunachal Pradesh"
+    - option "Assam"
+    - option "Bihar"
+    - option "Chandigarh"
+    - option "Chhattisgarh"
+    - option "Dadra and Nagar Haveli"
+    - option "Daman and Diu"
+    - option "Delhi"
+    - option "Goa"
+    - option "Gujarat"
+    - option "Haryana"
+    - option "Himachal Pradesh"
+    - option "Jammu and Kashmir"
+    - option "Jharkhand"
+    - option "Karnataka"
+    - option "Kerala"
+    - option "Ladakh"
+    - option "Lakshadweep"
+    - option "Madhya Pradesh"
+    - option "Maharashtra"
+    - option "Manipur"
+    - option "Meghalaya"
+    - option "Mizoram"
+    - option "Nagaland"
+    - option "Odisha"
+    - option "Puducherry"
+    - option "Punjab"
+    - option "Rajasthan"
+    - option "Sikkim"
+    - option "Tamil Nadu"
+    - option "Telangana"
+    - option "Tripura"
+    - option "Uttar Pradesh"
+    - option "Uttarakhand"
+    - option "West Bengal"
+  - text: Zip code
+  - textbox "Zip code"
+  - button "Estimate"
+  - text: Total ₹ 468,910.40 You saved ₹ 9,569.60!
+  - paragraph: GST included. Shipping calculated at checkout
+  - button "Checkout"
+  - paragraph: 100% Secure Payments
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - img
+  - heading [level=2]
+  - paragraph: Payment protection
+  - paragraph: Powered by Payumoney
+  - paragraph: Genuine products
+  - paragraph: 100% Original branded product
+  - paragraph: GST Invoices
+  - paragraph: B2B customers can avail ITC
+- contentinfo:
+  - button "Office Address" [disabled]
+  - paragraph:
+    - strong: "Address:"
+    - text: Tanotis Private Limited,
+  - paragraph: 1st Floor, Site No. 1, SFHS, Nandini Layout
+  - paragraph: Bangalore - 560096, INDIA
+  - paragraph:
+    - strong: "Work hours:"
+    - text: Mon - Fri 09:00 am - 5:00 pm
+  - paragraph
+  - paragraph:
+    - strong: "Support email:"
+    - link "support@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - paragraph:
+    - strong: "Sales email:"
+    - link "sales@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - button "Policy" [disabled]
+  - list:
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /pages/terms-and-conditions
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /pages/privacy-policy
+    - listitem:
+      - link "Refund & Cancellation":
+        - /url: /pages/refund-cancellation
+    - listitem:
+      - link "Shipping & Returns":
+        - /url: /pages/shipping-return
+    - listitem:
+      - link "Disclaimer":
+        - /url: /pages/disclaimer
+  - button "Important" [disabled]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /pages/about-us
+    - listitem:
+      - link "Contact Us":
+        - /url: /pages/contact-us
+    - listitem:
+      - link "FAQs":
+        - /url: /pages/faq
+    - listitem:
+      - link "Reviews":
+        - /url: /pages/reviews
+    - listitem:
+      - link "Note to Manufacturers":
+        - /url: /pages/note-to-manufacturers
+  - button "Account" [disabled]
+  - list:
+    - listitem:
+      - link "Login":
+        - /url: https://www.tanotis.com/account/login
+    - listitem:
+      - link "Register":
+        - /url: https://www.tanotis.com/account/register
+    - listitem:
+      - link "Track Your Order":
+        - /url: /pages/delivery
+    - listitem:
+      - link "Quote list":
+        - /url: https://www.tanotis.com/apps/request-a-quote/
+    - listitem:
+      - link "Cart":
+        - /url: https://www.tanotis.com/cart
+  - paragraph: Reviews
+  - strong:
+    - link "":
+      - /url: /pages/reviews
+    - text: 4.8/5 based on 11963 customer reviews.
+  - paragraph: FOLLOW US
+  - list:
+    - listitem:
+      - link "Follow us on Facebook":
+        - /url: https://www.facebook.com/tanotis
+        - img
+    - listitem:
+      - link "Follow us on Twitter":
+        - /url: https://twitter.com/Tanotis
+    - listitem:
+      - link "Follow us on Instagram":
+        - /url: https://www.instagram.com/tanotis
+    - listitem:
+      - link "Follow us on LinkedIn":
+        - /url: https://www.linkedin.com/company/tanotis
+  - paragraph
+  - paragraph
+  - complementary:
+    - paragraph:
+      - img
+      - text: ₹ India © 2011-2025 Tanotis.com
+- button "Contact us":
+  - img
+```

@@ -1,0 +1,143 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Tanotis":
+    - /url: /
+    - img "Tanotis"
+  - search:
+    - textbox "Search..."
+    - button "Search"
+  - text: Login / Signup
+  - link "My account":
+    - /url: /account/login
+  - link "0 Cart":
+    - /url: /cart
+- navigation:
+  - list:
+    - listitem:
+      - link "Electrical & Components":
+        - /url: /
+    - listitem:
+      - link "Electronics & Tools":
+        - /url: /
+    - listitem:
+      - link "Photography & Lighting":
+        - /url: /
+    - listitem:
+      - link "Optics & Surveillance":
+        - /url: /
+    - listitem:
+      - link "Pro Audio & Video":
+        - /url: /
+    - listitem:
+      - link "Computer & Presentation":
+        - /url: /
+    - listitem:
+      - link "TV & Mobile":
+        - /url: /
+- main:
+  - img
+  - paragraph: Your cart is empty
+  - paragraph: Spend ₹ 5,000 more and get free shipping!
+  - link "Shop our products":
+    - /url: /collections/all
+- contentinfo:
+  - button "Office Address" [disabled]
+  - paragraph:
+    - strong: "Address:"
+    - text: Tanotis Private Limited,
+  - paragraph: 1st Floor, Site No. 1, SFHS, Nandini Layout
+  - paragraph: Bangalore - 560096, INDIA
+  - paragraph:
+    - strong: "Work hours:"
+    - text: Mon - Fri 09:00 am - 5:00 pm
+  - paragraph
+  - paragraph:
+    - strong: "Support email:"
+    - link "support@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - paragraph:
+    - strong: "Sales email:"
+    - link "sales@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - button "Policy" [disabled]
+  - list:
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /pages/terms-and-conditions
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /pages/privacy-policy
+    - listitem:
+      - link "Refund & Cancellation":
+        - /url: /pages/refund-cancellation
+    - listitem:
+      - link "Shipping & Returns":
+        - /url: /pages/shipping-return
+    - listitem:
+      - link "Disclaimer":
+        - /url: /pages/disclaimer
+  - button "Important" [disabled]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /pages/about-us
+    - listitem:
+      - link "Contact Us":
+        - /url: /pages/contact-us
+    - listitem:
+      - link "FAQs":
+        - /url: /pages/faq
+    - listitem:
+      - link "Reviews":
+        - /url: /pages/reviews
+    - listitem:
+      - link "Note to Manufacturers":
+        - /url: /pages/note-to-manufacturers
+  - button "Account" [disabled]
+  - list:
+    - listitem:
+      - link "Login":
+        - /url: https://www.tanotis.com/account/login
+    - listitem:
+      - link "Register":
+        - /url: https://www.tanotis.com/account/register
+    - listitem:
+      - link "Track Your Order":
+        - /url: /pages/delivery
+    - listitem:
+      - link "Quote list":
+        - /url: https://www.tanotis.com/apps/request-a-quote/
+    - listitem:
+      - link "Cart":
+        - /url: https://www.tanotis.com/cart
+  - paragraph: Reviews
+  - strong:
+    - link "":
+      - /url: /pages/reviews
+    - text: 4.8/5 based on 11972 customer reviews.
+  - paragraph: FOLLOW US
+  - list:
+    - listitem:
+      - link "Follow us on Facebook":
+        - /url: https://www.facebook.com/tanotis
+        - img
+    - listitem:
+      - link "Follow us on Twitter":
+        - /url: https://twitter.com/Tanotis
+    - listitem:
+      - link "Follow us on Instagram":
+        - /url: https://www.instagram.com/tanotis
+    - listitem:
+      - link "Follow us on LinkedIn":
+        - /url: https://www.linkedin.com/company/tanotis
+  - paragraph
+  - paragraph
+  - complementary:
+    - paragraph:
+      - img
+      - text: ₹ India © 2011-2025 Tanotis.com
+- button "Contact us":
+  - img
+```

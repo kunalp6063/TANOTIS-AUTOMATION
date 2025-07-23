@@ -1,0 +1,4 @@
+ Add to Cart button clicked
+ Cart popup appeared in DOM after clicking
+ Cart popup is visible.
+❌ Title not visible in popup. Taking screenshot...

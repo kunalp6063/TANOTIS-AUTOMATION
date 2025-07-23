@@ -1,0 +1,494 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Tanotis":
+    - /url: /
+    - img "Tanotis"
+  - search:
+    - textbox "Search..."
+    - button "Search"
+  - text: Login / Signup
+  - link "My account":
+    - /url: /account/login
+  - link "0 Cart":
+    - /url: /cart
+- navigation:
+  - list:
+    - listitem:
+      - link "Electrical & Components":
+        - /url: /
+    - listitem:
+      - link "Electronics & Tools":
+        - /url: /
+    - listitem:
+      - link "Photography & Lighting":
+        - /url: /
+    - listitem:
+      - link "Optics & Surveillance":
+        - /url: /
+    - listitem:
+      - link "Pro Audio & Video":
+        - /url: /
+    - listitem:
+      - link "Computer & Presentation":
+        - /url: /
+    - listitem:
+      - link "TV & Mobile":
+        - /url: /
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /
+      - listitem: Headphones
+  - heading [level=1]
+  - text: Showing 1 - 36 of 875 products
+  - 'button "Display: 36 per page"'
+  - 'button "Sort by: Price, low to high"'
+  - text: View
+  - button "Display products as grid"
+  - button "Display products as list"
+  - link "Remote Audio HN7506WS Black Screen Cover for HN7506 Drivers":
+    - /url: /collections/headphones/products/remote-audio-hn7506ws-black-screen-cover-for-hn7506-drivers
+    - img "Remote Audio HN7506WS Black Screen Cover for HN7506 Drivers"
+  - text: ₹ 665
+  - link "Remote Audio":
+    - /url: /collections/vendors?q=Remote%20Audio-10
+  - link "Remote Audio HN7506WS Black Screen Cover for HN7506 Drivers":
+    - /url: /collections/headphones/products/remote-audio-hn7506ws-black-screen-cover-for-hn7506-drivers
+  - button "Add to cart"
+  - link "Pro Co Sound Male Mini 3.5mm to Female Stereo Phone Coupler":
+    - /url: /collections/headphones/products/pro-co-sound-male-mini-3-5mm-to-female-stereo-phone-coupler
+    - img "Pro Co Sound Male Mini 3.5mm to Female Stereo Phone Coupler"
+  - text: ₹ 815
+  - link "Pro Co Sound":
+    - /url: /collections/vendors?q=Pro%20Co%20Sound-10
+  - link "Pro Co Sound Male Mini 3.5mm to Female Stereo Phone Coupler":
+    - /url: /collections/headphones/products/pro-co-sound-male-mini-3-5mm-to-female-stereo-phone-coupler
+  - button "Unavailable" [disabled]
+  - link "Pearstone AMP-3 Nickel-Plated Stereo 3.5mm to 1/4\" Headphone Adapter":
+    - /url: /collections/headphones/products/pearstone-amp-3-nickel-plated-stereo-3-5mm-to-1-4-headphone-adapter
+    - img "Pearstone AMP-3 Nickel-Plated Stereo 3.5mm to 1/4\" Headphone Adapter"
+  - text: ₹ 845
+  - link "Pearstone":
+    - /url: /collections/vendors?q=Pearstone-10
+  - link "Pearstone AMP-3 Nickel-Plated Stereo 3.5mm to 1/4\" Headphone Adapter":
+    - /url: /collections/headphones/products/pearstone-amp-3-nickel-plated-stereo-3-5mm-to-1-4-headphone-adapter
+  - button "Add to cart"
+  - link "Remote Audio 1/4\" Stereo Female to Stereo Mini Male Adapter":
+    - /url: /collections/headphones/products/remote-audio-1-4-stereo-female-to-stereo-mini-male-adapter
+    - img "Remote Audio 1/4\" Stereo Female to Stereo Mini Male Adapter"
+  - text: ₹ 945
+  - link "Remote Audio":
+    - /url: /collections/vendors?q=Remote%20Audio-10
+  - link "Remote Audio 1/4\" Stereo Female to Stereo Mini Male Adapter":
+    - /url: /collections/headphones/products/remote-audio-1-4-stereo-female-to-stereo-mini-male-adapter
+  - button "Add to cart"
+  - link "Remote Audio Replacement Foam Cushion for Ear Bud":
+    - /url: /collections/headphones/products/remote-audio-replacement-foam-cushion-for-ear-bud
+    - img "Remote Audio Replacement Foam Cushion for Ear Bud"
+  - text: ₹ 975
+  - link "Remote Audio":
+    - /url: /collections/vendors?q=Remote%20Audio-10
+  - link "Remote Audio Replacement Foam Cushion for Ear Bud":
+    - /url: /collections/headphones/products/remote-audio-replacement-foam-cushion-for-ear-bud
+  - button "Add to cart"
+  - link "Pearstone AMP-4 Gold-Plated Stereo 3.5mm to 1/4\" Headphone Adapter":
+    - /url: /collections/headphones/products/pearstone-amp-4-gold-plated-stereo-3-5mm-to-1-4-headphone-adapter
+    - img "Pearstone AMP-4 Gold-Plated Stereo 3.5mm to 1/4\" Headphone Adapter"
+  - text: ₹ 1,010
+  - link "Pearstone":
+    - /url: /collections/vendors?q=Pearstone-10
+  - link "Pearstone AMP-4 Gold-Plated Stereo 3.5mm to 1/4\" Headphone Adapter":
+    - /url: /collections/headphones/products/pearstone-amp-4-gold-plated-stereo-3-5mm-to-1-4-headphone-adapter
+  - button "Add to cart"
+  - link "Hosa Technology GMP-471 - Adapter with 3.5mm Mini Female to 2.5mm Sub-Mini Male Connections":
+    - /url: /collections/headphones/products/hosa-technology-gmp-471-adapter-with-3-5mm-mini-female-to-2-5mm-sub-mini-male-connections
+    - img "Hosa Technology GMP-471 - Adapter with 3.5mm Mini Female to 2.5mm Sub-Mini Male Connections"
+  - text: ₹ 1,120
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - button "5.00 stars": 
+  - text: 1 review
+  - link "Hosa Technology GMP-471 - Adapter with 3.5mm Mini Female to 2.5mm S...":
+    - /url: /collections/headphones/products/hosa-technology-gmp-471-adapter-with-3-5mm-mini-female-to-2-5mm-sub-mini-male-connections
+  - button "Add to cart"
+  - link "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp500-stereo-2-5mm-female-to-3-5mm-male-adapter
+    - img "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter"
+  - text: ₹ 1,120
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GMP500 Stereo 2.5mm Female to 3.5mm Male Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp500-stereo-2-5mm-female-to-3-5mm-male-adapter
+  - button "Add to cart"
+  - link "Hosa Technology GPM103 Female Stereo 3.5mm Mini to Male Stereo 1/4\" Phone Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gpm103-female-stereo-3-5mm-mini-to-male-stereo-1-4-phone-adapter
+    - img "Hosa Technology GPM103 Female Stereo 3.5mm Mini to Male Stereo 1/4\" Phone Adapter"
+  - text: ₹ 1,120
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GPM103 Female Stereo 3.5mm Mini to Male Stereo 1/4\"...":
+    - /url: /collections/headphones/products/hosa-technology-gpm103-female-stereo-3-5mm-mini-to-male-stereo-1-4-phone-adapter
+  - button "Add to cart"
+  - link "Pro Co Sound 343PC Female Stereo Mini 3.5mm to Male Stereo 1/4\" Phone Coupler":
+    - /url: /collections/headphones/products/pro-co-sound-343pc-female-stereo-mini-3-5mm-to-male-stereo-1-4-phone-coupler
+    - img "Pro Co Sound 343PC Female Stereo Mini 3.5mm to Male Stereo 1/4\" Phone Coupler"
+  - text: ₹ 1,125
+  - link "Pro Co Sound":
+    - /url: /collections/vendors?q=Pro%20Co%20Sound-10
+  - link "Pro Co Sound 343PC Female Stereo Mini 3.5mm to Male Stereo 1/4\" Pho...":
+    - /url: /collections/headphones/products/pro-co-sound-343pc-female-stereo-mini-3-5mm-to-male-stereo-1-4-phone-coupler
+  - button "Add to cart"
+  - link "Belkin Speaker and Headphone Splitter (White)":
+    - /url: /collections/headphones/products/belkin-speaker-and-headphone-splitter-white
+    - img "Belkin Speaker and Headphone Splitter (White)"
+  - text: ₹ 1,200
+  - link "Belkin":
+    - /url: /collections/vendors?q=Belkin-10
+  - link "Belkin Speaker and Headphone Splitter (White)":
+    - /url: /collections/headphones/products/belkin-speaker-and-headphone-splitter-white
+  - button "Add to cart"
+  - link "Comprehensive Stereo Mini Male to 2 Stereo Mini Female Y-Cable - 6\"":
+    - /url: /collections/headphones/products/comprehensive-stereo-mini-male-to-2-stereo-mini-female-y-cable-6
+    - img "Comprehensive Stereo Mini Male to 2 Stereo Mini Female Y-Cable - 6\""
+  - text: ₹ 1,250
+  - link "Comprehensive":
+    - /url: /collections/vendors?q=Comprehensive-10
+  - link "Comprehensive Stereo Mini Male to 2 Stereo Mini Female Y-Cable - 6\"":
+    - /url: /collections/headphones/products/comprehensive-stereo-mini-male-to-2-stereo-mini-female-y-cable-6
+  - button "Add to cart"
+  - link "Comprehensive Stereo 3.5mm Mini Female to 2.5mm Sub-Mini Stereo Male - Adapter":
+    - /url: /collections/headphones/products/comprehensive-stereo-3-5mm-mini-female-to-2-5mm-sub-mini-stereo-male-adapter
+    - img "Comprehensive Stereo 3.5mm Mini Female to 2.5mm Sub-Mini Stereo Male - Adapter"
+  - text: ₹ 1,250
+  - link "Comprehensive":
+    - /url: /collections/vendors?q=Comprehensive-10
+  - link "Comprehensive Stereo 3.5mm Mini Female to 2.5mm Sub-Mini Stereo Mal...":
+    - /url: /collections/headphones/products/comprehensive-stereo-3-5mm-mini-female-to-2-5mm-sub-mini-stereo-male-adapter
+  - button "Add to cart"
+  - link "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor":
+    - /url: /collections/headphones/products/hosa-technology-3-5mm-trs-to-1-4-trs-headphone-plug-adaptor
+    - img "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology 3.5mm TRS to 1/4\" TRS Headphone Plug Adaptor":
+    - /url: /collections/headphones/products/hosa-technology-3-5mm-trs-to-1-4-trs-headphone-plug-adaptor
+  - button "Add to cart"
+  - link "Hosa Technology GMP-467 - Right Angle Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp-467-right-angle-adapter
+    - img "Hosa Technology GMP-467 - Right Angle Adapter"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - button "5.00 stars": 
+  - text: 1 review
+  - link "Hosa Technology GMP-467 - Right Angle Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp-467-right-angle-adapter
+  - button "Add to cart"
+  - link "Hosa Technology GMP112 Male Stereo 3.5mm Mini to Female Stereo 1/4\" Phone Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp112-male-stereo-3-5mm-mini-to-female-stereo-1-4-phone-adapter
+    - img "Hosa Technology GMP112 Male Stereo 3.5mm Mini to Female Stereo 1/4\" Phone Adapter"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GMP112 Male Stereo 3.5mm Mini to Female Stereo 1/4\"...":
+    - /url: /collections/headphones/products/hosa-technology-gmp112-male-stereo-3-5mm-mini-to-female-stereo-1-4-phone-adapter
+  - button "Add to cart"
+  - link "Hosa Technology GMP272 Male Stereo Mini to Female Stereo Mini Angled Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gmp272-male-stereo-mini-to-female-stereo-mini-angled-adapter
+    - img "Hosa Technology GMP272 Male Stereo Mini to Female Stereo Mini Angled Adapter"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GMP272 Male Stereo Mini to Female Stereo Mini Angle...":
+    - /url: /collections/headphones/products/hosa-technology-gmp272-male-stereo-mini-to-female-stereo-mini-angled-adapter
+  - button "Add to cart"
+  - link "Hosa Technology GPP359 Stereo Male 1/4\" Phone to 2 Stereo 1/4\" Female Phone Adapter":
+    - /url: /collections/headphones/products/hosa-technology-gpp359-stereo-male-1-4-phone-to-2-stereo-1-4-female-phone-adapter
+    - img "Hosa Technology GPP359 Stereo Male 1/4\" Phone to 2 Stereo 1/4\" Female Phone Adapter"
+  - text: ₹ 1,270
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology GPP359 Stereo Male 1/4\" Phone to 2 Stereo 1/4\" Fema...":
+    - /url: /collections/headphones/products/hosa-technology-gpp359-stereo-male-1-4-phone-to-2-stereo-1-4-female-phone-adapter
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Green)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-green
+    - img "Koss KPH7 On-Ear Headphones (Green)"
+  - text: ₹ 1,280
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - button "4.00 stars": 
+  - text: 1 review
+  - link "Koss KPH7 On-Ear Headphones (Green)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-green
+  - button "Add to cart"
+  - link "Cyber Acoustics Stereo On-Ear Headphones":
+    - /url: /collections/headphones/products/cyber-acoustics-stereo-on-ear-headphones
+    - img "Cyber Acoustics Stereo On-Ear Headphones"
+  - text: ₹ 1,280
+  - link "Cyber Acoustics":
+    - /url: /collections/vendors?q=Cyber%20Acoustics-10
+  - link "Cyber Acoustics Stereo On-Ear Headphones":
+    - /url: /collections/headphones/products/cyber-acoustics-stereo-on-ear-headphones
+  - button "Add to cart"
+  - link "StarTech Headset Output Splitter for Dedicated Mic & Headphones Plugs (White)":
+    - /url: /collections/headphones/products/startech-headset-output-splitter-for-dedicated-mic-headphones-plugs-white
+    - img "StarTech Headset Output Splitter for Dedicated Mic & Headphones Plugs (White)"
+  - text: ₹ 1,335
+  - link "StarTech":
+    - /url: /collections/vendors?q=StarTech-10
+  - link "StarTech Headset Output Splitter for Dedicated Mic & Headphones Plu...":
+    - /url: /collections/headphones/products/startech-headset-output-splitter-for-dedicated-mic-headphones-plugs-white
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-black
+    - img "Koss KPH7 On-Ear Headphones (Black)"
+  - text: ₹ 1,355
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - link "Koss KPH7 On-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-black
+  - button "Add to cart"
+  - link "Belkin Speaker and Headphone Splitter (Black)":
+    - /url: /collections/headphones/products/belkin-speaker-and-headphone-splitter-black
+    - img "Belkin Speaker and Headphone Splitter (Black)"
+  - text: ₹ 1,415
+  - link "Belkin":
+    - /url: /collections/vendors?q=Belkin-10
+  - link "Belkin Speaker and Headphone Splitter (Black)":
+    - /url: /collections/headphones/products/belkin-speaker-and-headphone-splitter-black
+  - button "Add to cart"
+  - text: Save ₹ 610
+  - link "Tanotis - Neewer GR-24 10 Foot/3 Meters Guitar Instrument Cable with Standard 1/4 Inch Straight to Right Angle Plug, Black and White Tweed Woven Jacket":
+    - /url: /collections/headphones/products/neewer-gr-24-10-foot-3-meters-guitar-instrument-cable-with-standard-1-4-inch-straight-to-right-angle-plug-black-and-white-tweed-woven-jacket
+    - img "Tanotis - Neewer GR-24 10 Foot/3 Meters Guitar Instrument Cable with Standard 1/4 Inch Straight to Right Angle Plug, Black and White Tweed Woven Jacket"
+  - text: ₹ 1,515 ₹ 2,125
+  - link "Neewe":
+    - /url: /collections/vendors?q=Neewer-5
+  - link "Neewer GR-24 10 Foot/3 Meters Guitar Instrument Cable with Standard...":
+    - /url: /collections/headphones/products/neewer-gr-24-10-foot-3-meters-guitar-instrument-cable-with-standard-1-4-inch-straight-to-right-angle-plug-black-and-white-tweed-woven-jacket
+  - button "Add to cart"
+  - link "Auray HPH-P2 Under-Desk Headphone Holder":
+    - /url: /collections/headphones/products/auray-hph-p2-under-desk-headphone-holder
+    - img "Auray HPH-P2 Under-Desk Headphone Holder"
+  - text: ₹ 1,530
+  - link "Auray":
+    - /url: /collections/vendors?q=Auray-10
+  - link "Auray HPH-P2 Under-Desk Headphone Holder":
+    - /url: /collections/headphones/products/auray-hph-p2-under-desk-headphone-holder
+  - button "Add to cart"
+  - link "Koss Portable Replacement Cushions":
+    - /url: /collections/headphones/products/koss-portable-replacement-cushions
+    - img "Koss Portable Replacement Cushions"
+  - text: ₹ 1,565
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - button "5.00 stars": 
+  - text: 1 review
+  - link "Koss Portable Replacement Cushions":
+    - /url: /collections/headphones/products/koss-portable-replacement-cushions
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Red)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-red
+    - img "Koss KPH7 On-Ear Headphones (Red)"
+  - text: ₹ 1,565
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - link "Koss KPH7 On-Ear Headphones (Red)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-red
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Violet)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-violet
+    - img "Koss KPH7 On-Ear Headphones (Violet)"
+  - text: ₹ 1,565
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - link "Koss KPH7 On-Ear Headphones (Violet)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-violet
+  - button "Add to cart"
+  - link "Koss KPH7 On-Ear Headphones (Blue)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-blue
+    - img "Koss KPH7 On-Ear Headphones (Blue)"
+  - text: ₹ 1,565
+  - link "Koss":
+    - /url: /collections/vendors?q=Koss-10
+  - link "Koss KPH7 On-Ear Headphones (Blue)":
+    - /url: /collections/headphones/products/koss-kph7-on-ear-headphones-blue
+  - button "Add to cart"
+  - link "Xuma 5-Way Headphone Splitter (Black)":
+    - /url: /collections/headphones/products/xuma-5-way-headphone-splitter-black
+    - img "Xuma 5-Way Headphone Splitter (Black)"
+  - text: ₹ 1,565
+  - link "Xuma":
+    - /url: /collections/vendors?q=Xuma-10
+  - link "Xuma 5-Way Headphone Splitter (Black)":
+    - /url: /collections/headphones/products/xuma-5-way-headphone-splitter-black
+  - button "Add to cart"
+  - link "JVC HA-F160 Gumy Earbuds (Black)":
+    - /url: /collections/headphones/products/jvc-ha-f160-gumy-earbuds-black
+    - img "JVC HA-F160 Gumy Earbuds (Black)"
+  - text: ₹ 1,590
+  - link "JVC":
+    - /url: /collections/vendors?q=JVC-10
+  - link "JVC HA-F160 Gumy Earbuds (Black)":
+    - /url: /collections/headphones/products/jvc-ha-f160-gumy-earbuds-black
+  - button "Add to cart"
+  - link "Hosa Technology Stereo 3.5mm Mini Female to 2 Mini Mono Right-Angle Male Y-Cable - 6\"":
+    - /url: /collections/headphones/products/hosa-technology-stereo-3-5mm-mini-female-to-2-mini-mono-right-angle-male-y-cable-6
+    - img "Hosa Technology Stereo 3.5mm Mini Female to 2 Mini Mono Right-Angle Male Y-Cable - 6\""
+  - text: ₹ 1,710
+  - link "Hosa Technology":
+    - /url: /collections/vendors?q=Hosa%20Technology-10
+  - link "Hosa Technology Stereo 3.5mm Mini Female to 2 Mini Mono Right-Angle...":
+    - /url: /collections/headphones/products/hosa-technology-stereo-3-5mm-mini-female-to-2-mini-mono-right-angle-male-y-cable-6
+  - button "Add to cart"
+  - link "JVC HA-F160 Gumy Earbuds (Blue)":
+    - /url: /collections/headphones/products/jvc-ha-f160-gumy-earbuds-blue
+    - img "JVC HA-F160 Gumy Earbuds (Blue)"
+  - text: ₹ 1,710
+  - link "JVC":
+    - /url: /collections/vendors?q=JVC-10
+  - link "JVC HA-F160 Gumy Earbuds (Blue)":
+    - /url: /collections/headphones/products/jvc-ha-f160-gumy-earbuds-blue
+  - button "Add to cart"
+  - link "Rocstor USB-A to 3.5mm Audio Adapter (Black)":
+    - /url: /collections/headphones/products/rocstor-usb-a-to-3-5mm-audio-adapter-black
+    - img "Rocstor USB-A to 3.5mm Audio Adapter (Black)"
+  - text: ₹ 1,710
+  - link "Rocstor":
+    - /url: /collections/vendors?q=Rocstor-10
+  - link "Rocstor USB-A to 3.5mm Audio Adapter (Black)":
+    - /url: /collections/headphones/products/rocstor-usb-a-to-3-5mm-audio-adapter-black
+  - button "Add to cart"
+  - link "Panasonic RP-HT21 Lightweight Headphones with XBS":
+    - /url: /collections/headphones/products/panasonic-rp-ht21-lightweight-headphones-with-xbs
+    - img "Panasonic RP-HT21 Lightweight Headphones with XBS"
+  - text: ₹ 1,715
+  - link "Panasonic":
+    - /url: /collections/vendors?q=Panasonic-10
+  - button "4.77 stars": 
+  - text: 13 reviews
+  - link "Panasonic RP-HT21 Lightweight Headphones with XBS":
+    - /url: /collections/headphones/products/panasonic-rp-ht21-lightweight-headphones-with-xbs
+  - button "Unavailable" [disabled]
+  - link "Eartec ESH-110A Replacement Foam Ear Pads for Monarch Headset (10-Pack)":
+    - /url: /collections/headphones/products/eartec-esh-110a-replacement-foam-ear-pads-for-monarch-headset-10-pack
+    - img "Eartec ESH-110A Replacement Foam Ear Pads for Monarch Headset (10-Pack)"
+  - text: ₹ 1,760
+  - link "Eartec":
+    - /url: /collections/vendors?q=Eartec-10
+  - link "Eartec ESH-110A Replacement Foam Ear Pads for Monarch Headset (10-P...":
+    - /url: /collections/headphones/products/eartec-esh-110a-replacement-foam-ear-pads-for-monarch-headset-10-pack
+  - button "Add to cart"
+  - text: "1"
+  - link "2":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbWluX3ByaWNlIiwic3YiOiIxNzYwLjAiLCJkIjoiZiIsInVpZCI6MzY3MTgxNjY0MDkzMDEsImwiOjM2LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.GRdI2KhNqaxQ2PKf2Fw5JYyHZvc5f1Qb5iC5GUus1xI&sort_by=price-ascending
+  - link "3":
+    - /url: /collections/headphones?page=3&sort_by=price-ascending
+  - text: …
+  - link "25":
+    - /url: /collections/headphones?page=25&sort_by=price-ascending
+  - link "Next":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbWluX3ByaWNlIiwic3YiOiIxNzYwLjAiLCJkIjoiZiIsInVpZCI6MzY3MTgxNjY0MDkzMDEsImwiOjM2LCJvIjowLCJyIjoiQ0RQIiwidiI6MSwicCI6Mn0.GRdI2KhNqaxQ2PKf2Fw5JYyHZvc5f1Qb5iC5GUus1xI&sort_by=price-ascending
+- contentinfo:
+  - button "Office Address" [disabled]
+  - paragraph:
+    - strong: "Address:"
+    - text: Tanotis Private Limited,
+  - paragraph: 1st Floor, Site No. 1, SFHS, Nandini Layout
+  - paragraph: Bangalore - 560096, INDIA
+  - paragraph:
+    - strong: "Work hours:"
+    - text: Mon - Fri 09:00 am - 5:00 pm
+  - paragraph
+  - paragraph:
+    - strong: "Support email:"
+    - link "support@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - paragraph:
+    - strong: "Sales email:"
+    - link "sales@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - button "Policy" [disabled]
+  - list:
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /pages/terms-and-conditions
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /pages/privacy-policy
+    - listitem:
+      - link "Refund & Cancellation":
+        - /url: /pages/refund-cancellation
+    - listitem:
+      - link "Shipping & Returns":
+        - /url: /pages/shipping-return
+    - listitem:
+      - link "Disclaimer":
+        - /url: /pages/disclaimer
+  - button "Important" [disabled]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /pages/about-us
+    - listitem:
+      - link "Contact Us":
+        - /url: /pages/contact-us
+    - listitem:
+      - link "FAQs":
+        - /url: /pages/faq
+    - listitem:
+      - link "Reviews":
+        - /url: /pages/reviews
+    - listitem:
+      - link "Note to Manufacturers":
+        - /url: /pages/note-to-manufacturers
+  - button "Account" [disabled]
+  - list:
+    - listitem:
+      - link "Login":
+        - /url: https://www.tanotis.com/account/login
+    - listitem:
+      - link "Register":
+        - /url: https://www.tanotis.com/account/register
+    - listitem:
+      - link "Track Your Order":
+        - /url: /pages/delivery
+    - listitem:
+      - link "Quote list":
+        - /url: https://www.tanotis.com/apps/request-a-quote/
+    - listitem:
+      - link "Cart":
+        - /url: https://www.tanotis.com/cart
+  - paragraph: Reviews
+  - strong:
+    - link "":
+      - /url: /pages/reviews
+    - text: 4.8/5 based on 11963 customer reviews.
+  - paragraph: FOLLOW US
+  - list:
+    - listitem:
+      - link "Follow us on Facebook":
+        - /url: https://www.facebook.com/tanotis
+        - img
+    - listitem:
+      - link "Follow us on Twitter":
+        - /url: https://twitter.com/Tanotis
+    - listitem:
+      - link "Follow us on Instagram":
+        - /url: https://www.instagram.com/tanotis
+    - listitem:
+      - link "Follow us on LinkedIn":
+        - /url: https://www.linkedin.com/company/tanotis
+  - paragraph
+  - paragraph
+  - complementary:
+    - paragraph:
+      - img
+      - text: ₹ India © 2011-2025 Tanotis.com
+```

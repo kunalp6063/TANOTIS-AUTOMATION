@@ -1,0 +1,4 @@
+ Add to Cart button clicked
+ Cart popup did not appear in DOM after clicking Add to Cart
+❌ Cart popup not visible or not found within timeout.
+⚠️ Screenshot failed: page.screenshot: Target page, context or browser has been closed

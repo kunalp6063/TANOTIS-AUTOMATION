@@ -1,0 +1,381 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Tanotis":
+    - /url: /
+    - img "Tanotis"
+  - search:
+    - textbox "Search..."
+    - button "Search"
+  - text: Login / Signup
+  - link "My account":
+    - /url: /account/login
+  - link "0 Cart":
+    - /url: /cart
+- navigation:
+  - list:
+    - listitem:
+      - link "Electrical & Components":
+        - /url: /
+    - listitem:
+      - link "Electronics & Tools":
+        - /url: /
+    - listitem:
+      - link "Photography & Lighting":
+        - /url: /
+    - listitem:
+      - link "Optics & Surveillance":
+        - /url: /
+    - listitem:
+      - link "Pro Audio & Video":
+        - /url: /
+    - listitem:
+      - link "Computer & Presentation":
+        - /url: /
+    - listitem:
+      - link "TV & Mobile":
+        - /url: /
+- main:
+  - navigation "Breadcrumb":
+    - list:
+      - listitem:
+        - link "Home":
+          - /url: /
+      - listitem: Headphones
+  - heading [level=1]
+  - text: Showing 1 - 24 of 875 products
+  - 'button "Display: 24 per page"'
+  - 'button "Sort by: Price, high to low"'
+  - text: View
+  - button "Display products as grid"
+  - button "Display products as list"
+  - link "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC":
+    - /url: /collections/headphones/products/violectric-dha-v226-headphone-amplifier-preamp-and-dac
+    - img "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC"
+  - text: ₹ 239,240
+  - link "Violectric":
+    - /url: /collections/vendors?q=Violectric-10
+  - link "Violectric DHA V226 Headphone Amplifier, Preamp, and DAC":
+    - /url: /collections/headphones/products/violectric-dha-v226-headphone-amplifier-preamp-and-dac
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Navy) Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Navy)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-navy
+    - img "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Navy)"
+    - img "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Navy)"
+  - text: ₹ 187,790
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headph...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-navy
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Gold)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-gold
+    - img "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Gold)"
+  - text: ₹ 187,645
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headph...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-gold
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-black
+    - img "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Black)"
+  - text: ₹ 187,645
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headph...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-black
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Chestnut)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-chestnut
+    - img "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headphones (Chestnut)"
+  - text: ₹ 187,645
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay H95 Wireless Noise-Canceling Over-Ear Headph...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-h95-wireless-noise-canceling-over-ear-headphones-chestnut
+  - button "Add to cart"
+  - link "FiiO FA19 10-Driver Knowles Balanced Armature In-Ear Monitors":
+    - /url: /collections/headphones/products/fiio-fa19-10-driver-knowles-balanced-armature-in-ear-monitors
+    - img "FiiO FA19 10-Driver Knowles Balanced Armature In-Ear Monitors"
+  - text: ₹ 146,455
+  - link "FiiO":
+    - /url: /collections/vendors?q=FiiO-10
+  - link "FiiO FA19 10-Driver Knowles Balanced Armature In-Ear Monitors":
+    - /url: /collections/headphones/products/fiio-fa19-10-driver-knowles-balanced-armature-in-ear-monitors
+  - button "Add to cart"
+  - link "Beyerdynamic T5 (3rd Generation) Closed-Back Audiophile Headphones":
+    - /url: /collections/headphones/products/beyerdynamic-t5-3rd-generation-closed-back-audiophile-headphones
+    - img "Beyerdynamic T5 (3rd Generation) Closed-Back Audiophile Headphones"
+  - text: ₹ 146,380
+  - link "Beyerdynamic":
+    - /url: /collections/vendors?q=Beyerdynamic-10
+  - link "Beyerdynamic T5 (3rd Generation) Closed-Back Audiophile Headphones":
+    - /url: /collections/headphones/products/beyerdynamic-t5-3rd-generation-closed-back-audiophile-headphones
+  - button "Add to cart"
+  - link "Mark Levinson No 5909 High-Resolution Wireless Headphones with ANC (Gray)":
+    - /url: /collections/headphones/products/mark-levinson-no-5909-high-resolution-wireless-headphones-with-anc-gray
+    - img "Mark Levinson No 5909 High-Resolution Wireless Headphones with ANC (Gray)"
+  - text: ₹ 146,315
+  - link "Mark Levinson":
+    - /url: /collections/vendors?q=Mark%20Levinson-10
+  - link "Mark Levinson No 5909 High-Resolution Wireless Headphones with ANC ...":
+    - /url: /collections/headphones/products/mark-levinson-no-5909-high-resolution-wireless-headphones-with-anc-gray
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headphones (Timber)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-noise-canceling-wireless-over-ear-headphones-timber-2
+    - img "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headphones (Timber)"
+  - text: ₹ 110,335
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headpho...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-noise-canceling-wireless-over-ear-headphones-timber-2
+  - button "Add to cart"
+  - link "Bang & Olufsen BeoPlay HX Wireless ANC Over-Ear Headphones (Gold Tone)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-wireless-anc-over-ear-headphones-gold-tone
+    - img "Bang & Olufsen BeoPlay HX Wireless ANC Over-Ear Headphones (Gold Tone)"
+  - text: ₹ 110,310
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen BeoPlay HX Wireless ANC Over-Ear Headphones (Gold Tone)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-wireless-anc-over-ear-headphones-gold-tone
+  - button "Add to cart"
+  - link "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-noise-canceling-wireless-over-ear-headphones-black-2
+    - img "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headphones (Black)"
+  - text: ₹ 110,285
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen Beoplay HX Noise-Canceling Wireless Over-Ear Headpho...":
+    - /url: /collections/headphones/products/bang-olufsen-beoplay-hx-noise-canceling-wireless-over-ear-headphones-black-2
+  - button "Add to cart"
+  - text: Save ₹ 31,000
+  - link "Beyerdynamic T1 Open-Back Audiophile Headphones (3rd Generation)":
+    - /url: /collections/headphones/products/beyerdynamic-t1-open-back-audiophile-headphones-3rd-generation
+    - img "Beyerdynamic T1 Open-Back Audiophile Headphones (3rd Generation)"
+  - text: ₹ 103,325 ₹ 134,325
+  - link "Beyerdynamic":
+    - /url: /collections/vendors?q=Beyerdynamic-10
+  - link "Beyerdynamic T1 Open-Back Audiophile Headphones (3rd Generation)":
+    - /url: /collections/headphones/products/beyerdynamic-t1-open-back-audiophile-headphones-3rd-generation
+  - button "Add to cart"
+  - link "Grace Design m900 Compact, Portable Headphone Amp, DAC, and Preamp":
+    - /url: /collections/headphones/products/grace-design-m900-compact-portable-headphone-amp-dac-and-preamp
+    - img "Grace Design m900 Compact, Portable Headphone Amp, DAC, and Preamp"
+  - text: ₹ 97,585
+  - link "Grace Design":
+    - /url: /collections/vendors?q=Grace%20Design-10
+  - link "Grace Design m900 Compact, Portable Headphone Amp, DAC, and Preamp":
+    - /url: /collections/headphones/products/grace-design-m900-compact-portable-headphone-amp-dac-and-preamp
+  - button "Add to cart"
+  - link "Beyerdynamic DT 1990 PRO MKII Over-Ear Open-Back Reference Headphones":
+    - /url: /collections/headphones/products/beyerdynamic-dt-1990-pro-mkii-over-ear-open-back-reference-headphones
+    - img "Beyerdynamic DT 1990 PRO MKII Over-Ear Open-Back Reference Headphones"
+  - text: ₹ 88,950
+  - link "Beyerdynamic":
+    - /url: /collections/vendors?q=Beyerdynamic-10
+  - link "Beyerdynamic DT 1990 PRO MKII Over-Ear Open-Back Reference Headphones":
+    - /url: /collections/headphones/products/beyerdynamic-dt-1990-pro-mkii-over-ear-open-back-reference-headphones
+  - button "Add to cart"
+  - link "Beyerdynamic DT 1770 PRO MKII Over-Ear Closed-Back Studio Monitoring Headphones":
+    - /url: /collections/headphones/products/beyerdynamic-dt-1770-pro-mkii-over-ear-closed-back-studio-monitoring-headphones
+    - img "Beyerdynamic DT 1770 PRO MKII Over-Ear Closed-Back Studio Monitoring Headphones"
+  - text: ₹ 88,950
+  - link "Beyerdynamic":
+    - /url: /collections/vendors?q=Beyerdynamic-10
+  - link "Beyerdynamic DT 1770 PRO MKII Over-Ear Closed-Back Studio Monitorin...":
+    - /url: /collections/headphones/products/beyerdynamic-dt-1770-pro-mkii-over-ear-closed-back-studio-monitoring-headphones
+  - button "Add to cart"
+  - link "iBasso SR3 Open-Back Dynamic Headphones":
+    - /url: /collections/headphones/products/ibasso-sr3-open-back-dynamic-headphones
+    - img "iBasso SR3 Open-Back Dynamic Headphones"
+  - text: ₹ 88,805
+  - link "iBasso":
+    - /url: /collections/vendors?q=iBasso-10
+  - link "iBasso SR3 Open-Back Dynamic Headphones":
+    - /url: /collections/headphones/products/ibasso-sr3-open-back-dynamic-headphones
+  - button "Add to cart"
+  - link "Bang & Olufsen BeoCom Portal Wireless ANC Over-Ear Headphones for Microsoft Teams (Black Anthracite)":
+    - /url: /collections/headphones/products/bang-olufsen-beocom-portal-wireless-anc-over-ear-headphones-for-microsoft-teams-black-anthracite
+    - img "Bang & Olufsen BeoCom Portal Wireless ANC Over-Ear Headphones for Microsoft Teams (Black Anthracite)"
+  - text: ₹ 88,805
+  - link "Bang & Olufsen":
+    - /url: /collections/vendors?q=Bang%20%26%20Olufsen-10
+  - link "Bang & Olufsen BeoCom Portal Wireless ANC Over-Ear Headphones for M...":
+    - /url: /collections/headphones/products/bang-olufsen-beocom-portal-wireless-anc-over-ear-headphones-for-microsoft-teams-black-anthracite
+  - button "Add to cart"
+  - link "AlphaTheta HDJ-F10-TX Professional Wireless DJ Headphones with Transmitter":
+    - /url: /collections/headphones/products/alphatheta-hdj-f10-tx-professional-wireless-dj-headphones-with-transmitter
+    - img "AlphaTheta HDJ-F10-TX Professional Wireless DJ Headphones with Transmitter"
+  - text: ₹ 88,780
+  - link "AlphaTheta":
+    - /url: /collections/vendors?q=AlphaTheta-10
+  - link "AlphaTheta HDJ-F10-TX Professional Wireless DJ Headphones with Tran...":
+    - /url: /collections/headphones/products/alphatheta-hdj-f10-tx-professional-wireless-dj-headphones-with-transmitter
+  - button "Add to cart"
+  - link "FiiO FT5 Over-Ear Open-Back Planar Magnetic Headphones":
+    - /url: /collections/headphones/products/fiio-ft5-over-ear-open-back-planar-magnetic-headphones
+    - img "FiiO FT5 Over-Ear Open-Back Planar Magnetic Headphones"
+  - text: ₹ 75,530
+  - link "FiiO":
+    - /url: /collections/vendors?q=FiiO-10
+  - link "FiiO FT5 Over-Ear Open-Back Planar Magnetic Headphones":
+    - /url: /collections/headphones/products/fiio-ft5-over-ear-open-back-planar-magnetic-headphones
+  - button "Add to cart"
+  - text: Save ₹ 19,990
+  - link "Sennheiser HD 660S2 Wired Over-Ear Headphones":
+    - /url: /collections/headphones/products/sennheiser-hd-660s2-wired-over-ear-headphones
+    - img "Sennheiser HD 660S2 Wired Over-Ear Headphones"
+  - text: ₹ 75,495 ₹ 95,485
+  - link "Sennheiser":
+    - /url: /collections/vendors?q=Sennheiser-10
+  - link "Sennheiser HD 660S2 Wired Over-Ear Headphones":
+    - /url: /collections/headphones/products/sennheiser-hd-660s2-wired-over-ear-headphones
+  - button "Add to cart"
+  - link "AlphaTheta HDJ-F10 Professional Wireless DJ Headphones":
+    - /url: /collections/headphones/products/alphatheta-hdj-f10-professional-wireless-dj-headphones
+    - img "AlphaTheta HDJ-F10 Professional Wireless DJ Headphones"
+  - text: ₹ 70,995
+  - link "AlphaTheta":
+    - /url: /collections/vendors?q=AlphaTheta-10
+  - link "AlphaTheta HDJ-F10 Professional Wireless DJ Headphones":
+    - /url: /collections/headphones/products/alphatheta-hdj-f10-professional-wireless-dj-headphones
+  - button "Add to cart"
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-black
+    - img "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)"
+  - text: ₹ 67,970
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Black)":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-black
+  - button "Add to cart"
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Platinum Silver)":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-platinum-silver
+    - img "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Platinum Silver)"
+  - text: ₹ 67,970
+  - link "Sony":
+    - /url: /collections/vendors?q=Sony-10
+  - link "Sony WH-1000XM6 Noise-Canceling Wireless Over-Ear Headphones (Plati...":
+    - /url: /collections/headphones/products/sony-wh-1000xm6-noise-canceling-wireless-over-ear-headphones-platinum-silver
+  - button "Add to cart"
+  - text: Save ₹ 16,895
+  - link "Sennheiser HD 650 - Reference Class Stereo Headphones":
+    - /url: /collections/headphones/products/sennheiser-hd-650-reference-class-stereo-headphones
+    - img "Sennheiser HD 650 - Reference Class Stereo Headphones"
+  - text: ₹ 65,320 ₹ 82,215
+  - link "Sennheiser":
+    - /url: /collections/vendors?q=Sennheiser-10
+  - link "Sennheiser HD 650 - Reference Class Stereo Headphones":
+    - /url: /collections/headphones/products/sennheiser-hd-650-reference-class-stereo-headphones
+  - button "Add to cart"
+  - text: "1"
+  - link "2":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbWluX3ByaWNlIiwic3YiOiI2NTMyMC4wIiwiZCI6ImYiLCJ1aWQiOjI1MzYxNzE2NzUyLCJsIjoyNCwibyI6MCwiciI6IkNEUCIsInYiOjEsInAiOjJ9.5CE97D66QQvZ_BbO25lDl8mKcv8KZLqKw1dbNbg0gRU&sort_by=price-descending
+  - link "3":
+    - /url: /collections/headphones?page=3&sort_by=price-descending
+  - text: …
+  - link "37":
+    - /url: /collections/headphones?page=37&sort_by=price-descending
+  - link "Next":
+    - /url: /collections/headphones?page=2&phcursor=eyJhbGciOiJIUzI1NiJ9.eyJzayI6InByb2R1Y3RfbWluX3ByaWNlIiwic3YiOiI2NTMyMC4wIiwiZCI6ImYiLCJ1aWQiOjI1MzYxNzE2NzUyLCJsIjoyNCwibyI6MCwiciI6IkNEUCIsInYiOjEsInAiOjJ9.5CE97D66QQvZ_BbO25lDl8mKcv8KZLqKw1dbNbg0gRU&sort_by=price-descending
+- contentinfo:
+  - button "Office Address" [disabled]
+  - paragraph:
+    - strong: "Address:"
+    - text: Tanotis Private Limited,
+  - paragraph: 1st Floor, Site No. 1, SFHS, Nandini Layout
+  - paragraph: Bangalore - 560096, INDIA
+  - paragraph:
+    - strong: "Work hours:"
+    - text: Mon - Fri 09:00 am - 5:00 pm
+  - paragraph
+  - paragraph:
+    - strong: "Support email:"
+    - link "support@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - paragraph:
+    - strong: "Sales email:"
+    - link "sales@tanotis.com":
+      - /url: mailto:support@tanotis.com
+  - button "Policy" [disabled]
+  - list:
+    - listitem:
+      - link "Terms & Conditions":
+        - /url: /pages/terms-and-conditions
+    - listitem:
+      - link "Privacy Policy":
+        - /url: /pages/privacy-policy
+    - listitem:
+      - link "Refund & Cancellation":
+        - /url: /pages/refund-cancellation
+    - listitem:
+      - link "Shipping & Returns":
+        - /url: /pages/shipping-return
+    - listitem:
+      - link "Disclaimer":
+        - /url: /pages/disclaimer
+  - button "Important" [disabled]
+  - list:
+    - listitem:
+      - link "About Us":
+        - /url: /pages/about-us
+    - listitem:
+      - link "Contact Us":
+        - /url: /pages/contact-us
+    - listitem:
+      - link "FAQs":
+        - /url: /pages/faq
+    - listitem:
+      - link "Reviews":
+        - /url: /pages/reviews
+    - listitem:
+      - link "Note to Manufacturers":
+        - /url: /pages/note-to-manufacturers
+  - button "Account" [disabled]
+  - list:
+    - listitem:
+      - link "Login":
+        - /url: https://www.tanotis.com/account/login
+    - listitem:
+      - link "Register":
+        - /url: https://www.tanotis.com/account/register
+    - listitem:
+      - link "Track Your Order":
+        - /url: /pages/delivery
+    - listitem:
+      - link "Quote list":
+        - /url: https://www.tanotis.com/apps/request-a-quote/
+    - listitem:
+      - link "Cart":
+        - /url: https://www.tanotis.com/cart
+  - paragraph: Reviews
+  - strong:
+    - link "":
+      - /url: /pages/reviews
+    - text: 4.8/5 based on 11963 customer reviews.
+  - paragraph: FOLLOW US
+  - list:
+    - listitem:
+      - link "Follow us on Facebook":
+        - /url: https://www.facebook.com/tanotis
+        - img
+    - listitem:
+      - link "Follow us on Twitter":
+        - /url: https://twitter.com/Tanotis
+    - listitem:
+      - link "Follow us on Instagram":
+        - /url: https://www.instagram.com/tanotis
+    - listitem:
+      - link "Follow us on LinkedIn":
+        - /url: https://www.linkedin.com/company/tanotis
+  - paragraph
+  - paragraph
+  - complementary:
+    - paragraph:
+      - img
+      - text: ₹ India © 2011-2025 Tanotis.com
+- button "Contact us":
+  - img
+```

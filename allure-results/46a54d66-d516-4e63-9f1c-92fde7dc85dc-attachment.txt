@@ -1,0 +1,13 @@
+ Add to Cart button clicked
+ Cart popup appeared in DOM after clicking
+✅ Cart popup is visible.
+ Cart popup title: Violectric DHA V226 Headphone Amplifier, Preamp, and DAC
+ Cart popup price: 239240.00
+Cart popup quantity: 1
+Navigated to View Cart page
+ Cart page details verified
+ Changing quantity...
+ Updated quantity: 2
+Unit Price from cart: 468910.4
+Updated Total Price: 468910.4
+Expected Price: 112182124096, Actual Price: 468910.4
